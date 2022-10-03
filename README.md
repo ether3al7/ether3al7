@@ -19,4 +19,4 @@ I'm @ether3al7
 - :atom: Everything has a purpose
 - 
 
-![Ether3al7's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ether3al7's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=chartreuse-dark)
