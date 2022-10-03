@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ⭐Current Tech Stack
 ![java](images/java.png | width=50)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ether3al7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 I'm @ether3al7
@@ -19,6 +21,19 @@ I'm @ether3al7
 - :atom: Everything has a purpose
 
 
-![Ether3al7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ether3al7&show_icons=true&theme=chartreuse-dark)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Ether3al7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ether3al7&show_icons=true&theme=chartreuse-dark)
 
