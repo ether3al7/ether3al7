@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm @ether3al7!
+I'm @ether3al7
 - 🤓 I'm interested in Software Development, Website Design, and Mental Health Wellness!
 - 📫 How to reach me: https://www.linkedin.com/in/ryanefaw/
 - :atom: Everything has a purpose
