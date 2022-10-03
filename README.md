@@ -17,6 +17,8 @@ I'm @ether3al7
 - 🤓 I'm interested in Software Development, Website Design, and Mental Health Wellness!
 - 📫 How to reach me: https://www.linkedin.com/in/ryanefaw/
 - :atom: Everything has a purpose
-- 
+
+
+![Ether3al7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ether3al7&show_icons=true&theme=chartreuse-dark)
 
 
