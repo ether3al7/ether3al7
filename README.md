@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 
 ## I'm @ether3al7
 - 🤓 I'm interested in Software Development, Website Design, and Mental Health Wellness!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanefaw/)
+- <p> 📫 How to reach me:
+     <a href="https://www.linkedin.com/in/ryanefaw/">
+       <img width="25px" src="https://skillicons.dev/icons?i=linkedin" />
+     </a>
+   </p>
 - :atom: Everything has a purpose
 
 ## ⭐Current Tech Stack
