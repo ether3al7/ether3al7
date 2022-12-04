@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,bootstrap,spring,postgresql,nodjs)](https://skillicons.dev)
 
 ## :bar_chart: Stats
-![Ether3al7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ether3al7&show_icons=true&theme=chartreuse-dark)
+![Ether3al7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ether3al7&show_icons=true&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ether3al7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ether3al7&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
