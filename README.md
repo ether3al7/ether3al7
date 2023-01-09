@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - :atom: Everything has a purpose
 
 ## ⭐Current Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,bootstrap,spring,postgresql,nodejs,docker,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,bootstrap,spring,postgresql,nodejs,firebase,docker,blender)](https://skillicons.dev)
 
 ## :bar_chart: Stats
 ![Ether3al7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ether3al7&show_icons=true&theme=blue-green)
