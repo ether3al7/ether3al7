@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 ## ⭐Current Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,bootstrap,spring,postgresql,nodejs,firebase,docker,blender)](https://skillicons.dev)
 
+## :page_with_curl:Certs
+
 
