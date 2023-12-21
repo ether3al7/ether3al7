@@ -42,7 +42,10 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react,bootstrap,spring,aws,gradle,postgresql,nodejs,firebase,jenkins,docker,blender&perline=7)](https://skillicons.dev)
 
 ## 📃Certs
-![image](https://github.com/ether3al7/ether3al7/assets/103286201/aa9ff507-0b15-4fdd-8029-900594f12d26) ![google-it-support-certificate-2023 (1)](https://github.com/ether3al7/ether3al7/assets/103286201/df672197-0aeb-416e-94b0-7ae07a22d63c) ![google-ux-design-certificate 2 (1)](https://github.com/ether3al7/ether3al7/assets/103286201/9e2968c4-9a95-4a78-aca1-72c66b2a599d)
+![image](https://github.com/ether3al7/ether3al7/assets/103286201/aa9ff507-0b15-4fdd-8029-900594f12d26) 
+![AWSCSA](https://github.com/ether3al7/ether3al7/assets/103286201/d265ab80-b034-4b9e-8ede-7bfca0741b54)
+![google-it-support-certificate-2023 (1)](https://github.com/ether3al7/ether3al7/assets/103286201/df672197-0aeb-416e-94b0-7ae07a22d63c) 
+![google-ux-design-certificate 2 (1)](https://github.com/ether3al7/ether3al7/assets/103286201/9e2968c4-9a95-4a78-aca1-72c66b2a599d)
 
 
 
