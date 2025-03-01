@@ -46,13 +46,5 @@ Here are some ideas to get you started:
 ![AWSCSA](https://github.com/ether3al7/ether3al7/assets/103286201/d265ab80-b034-4b9e-8ede-7bfca0741b54)
 ![google-it-support-certificate-2023 (1)](https://github.com/ether3al7/ether3al7/assets/103286201/df672197-0aeb-416e-94b0-7ae07a22d63c) 
 ![google-ux-design-certificate 2 (1)](https://github.com/ether3al7/ether3al7/assets/103286201/9e2968c4-9a95-4a78-aca1-72c66b2a599d)
-![comptia-project-plus-certificate](https://github.com/user-attachments/assets/c7f39cdd-a18c-4a73-9600-5c4e53e51a5c)
-
-
-
-
-
-
-
-
+![comptia-project-certification 5](https://github.com/user-attachments/assets/f342fdb9-2362-4c46-8b36-2cc7690a3eac)
 
