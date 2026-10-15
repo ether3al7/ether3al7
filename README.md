@@ -7,14 +7,26 @@ I build software from idea to production, working across application development
 My work spans full-stack applications, AWS architecture, infrastructure as code, AI-enabled systems, developer tooling, and independent product development.
 
 <p>
-  🌐 <strong>Portfolio:</strong>
-  <a href="https://ryan.lionstoothtech.com">ryan.lionstoothtech.com</a>
+  <strong>💼 Portfolio:</strong>
+  <a href="https://ryan.lionstoothtech.com">
+    <img
+      width="37px"
+      src="images/PortfolioLaptopIcon.png"
+      alt="Portfolio"
+      align="center"
+    />
+  </a>
 </p>
 
 <p>
-  📫 <strong>Connect with me:</strong>
+  <strong>📫 Connect with me:</strong>
   <a href="https://www.linkedin.com/in/ryanefaw/">
-    <img width="25px" src="https://skillicons.dev/icons?i=linkedin" />
+    <img
+      width="28px"
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+      align="center"
+    />
   </a>
 </p>
 
