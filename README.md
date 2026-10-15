@@ -113,11 +113,11 @@ For the best representation of what I can build today:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Ether3al7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ether3al7&show_icons=true&theme=blue-green)
+![GitHub engineering activity](./profile/github-stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ether3al7&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Languages across my GitHub work](./profile/top-langs.svg)
 
 ---
 

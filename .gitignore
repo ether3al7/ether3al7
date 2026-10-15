@@ -1,0 +1,47 @@
+# This repository is PUBLIC. Nothing secret belongs here, committed or not.
+
+# Secrets / credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*_rsa
+*_ed25519
+id_rsa*
+credentials
+credentials.json
+secrets.json
+.netrc
+.npmrc
+.pypirc
+*token*.txt
+*secret*.json
+
+# Local tooling / scratch
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+*.log
+tmp/
+scratch/
+local/
+
+# Local agent config / steering (workspace-scoped, not published)
+.kiro/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
