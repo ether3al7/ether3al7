@@ -88,7 +88,7 @@ Some labs are small. Others turn into deeper investigations.
 
 The point is to keep building, stretch into unfamiliar problems, and become a better engineer by actually doing the work.
 
-**[→ Enter Field Labs](https://ryan.lionstoothtech.com)**
+**[→ Enter Field Labs](https://labs.lionstoothtech.com)**
 
 ---
 
@@ -128,15 +128,3 @@ For the best representation of what I can build today:
 ![Google IT Support Certificate](https://github.com/ether3al7/ether3al7/assets/103286201/df672197-0aeb-416e-94b0-7ae07a22d63c)
 ![Google UX Design Certificate](https://github.com/ether3al7/ether3al7/assets/103286201/9e2968c4-9a95-4a78-aca1-72c66b2a599d)
 ![CompTIA Project+ Certification](https://github.com/user-attachments/assets/f342fdb9-2362-4c46-8b36-2cc7690a3eac)
-
----
-
-## 🔗 Find Me
-
-🌐 **Portfolio:** [ryan.lionstoothtech.com](https://ryan.lionstoothtech.com)
-
-💼 **LinkedIn:** [linkedin.com/in/ryanefaw](https://www.linkedin.com/in/ryanefaw/)
-
----
-
-### ⚛️ Everything has a purpose.
